@@ -1,0 +1,15 @@
+div {
+  padding: 10px;
+}
+
+.show_entry {
+  background-color: yellow;
+}
+
+.edit_entry {
+  background-color: orange;
+}
+
+.list{
+  background-color: powderblue;
+}
